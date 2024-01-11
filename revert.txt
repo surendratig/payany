@@ -1,0 +1,5 @@
+this file is created to test git revert
+
+today datw is 
+
+here i did typo erro instead of e i enetered w so i want to correct after push it to central repo
