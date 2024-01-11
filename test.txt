@@ -1,4 +1,9 @@
+<<<<<<< Updated upstream
 module1:
 complete 50% code will do remaining later
  
 module 1 complted successfully
+=======
+module2:
+ completing remaing 50% code 
+>>>>>>> Stashed changes
