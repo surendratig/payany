@@ -3,9 +3,9 @@ pipeline {
 
     
     stages {
-        stage('build') {
+        stage('git clone') {
             steps {
-                echo 'build is completed'
+                git branch: 'main', url: 'https://github.com/surendratig/payany.git'
             }
         }
          stage('test') {
